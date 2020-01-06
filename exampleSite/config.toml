@@ -1,4 +1,4 @@
-baseURL = "embarc-meghna"
+baseURL = "https://embarc-meghna.netlify.com"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
