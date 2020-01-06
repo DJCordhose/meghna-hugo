@@ -1,11 +1,13 @@
 +++
-author = ""
-date = ""
-description = ""
+author = "olli"
+date = 2020-01-05T23:00:00Z
+description = "oma"
 image = "/images/portfolio/portfolio-8.jpg"
-title = "Hhu"
+title = "Huhu"
 
 +++
+# H1
+
 Hallo, _Leute_,
 
 * 1
@@ -17,5 +19,4 @@ Hallo, _Leute_,
        * Hund
        * Katze
 
-    
-    const [a, b] = [10, 20]
+    const \[a, b\] = \[10, 20\]
